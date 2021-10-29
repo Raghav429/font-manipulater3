@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 10px;
+    width: 100%;
+    margin: 0;  
+    line-height: 3 ;
+}
+.note
+{
+    font-size: 11px;
+    color: red;
+}
+#copy_right_fotter
+{
+    color: white;
+    bottom: 0;
+    line-height: 2;
+    background-color: orange;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+}
+Canvas
+{
+border: red;
+border-radius:10px;
+}
